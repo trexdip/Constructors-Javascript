@@ -1,0 +1,18 @@
+h1
+{
+	font-size: 20px;
+	border:1px solid black;
+	display: inline-block;
+	margin:5px;
+	height:400px;
+	width:300px;
+	border-radius: 25px;
+	text-align: center;
+	font-family: 'Pathway Gothic One', sans-serif;
+}
+h2
+{
+	text-align: center;
+	font-size: 55px;
+	font-family: 'Artifika', serif;
+}
